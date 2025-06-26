@@ -1,0 +1,80 @@
+newmtl Lo_eyes
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd standard_wholebodyW_s.png
+Ni 1.00
+newmtl W1_initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd standard_wholebodyW_s.png
+Ni 1.00
+newmtl eyes
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd standard_wholebodyW_s.png
+Ni 1.00
+newmtl head
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd standard_wholebodyW_s.png
+Ni 1.00
+newmtl lower_sock
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd standard_wholebodyW_s.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
+newmtl mediaface
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd standard_wholebodyW_s.png
+Ni 1.00
+newmtl teeth_Lower
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd standard_wholebodyW_s.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
+newmtl teeth_Upper
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd standard_wholebodyW_s.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
+newmtl the_tongue
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd standard_wholebodyW_s.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
+newmtl upper_sock
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd standard_wholebodyW_s.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
