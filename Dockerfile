@@ -1,10 +1,7 @@
-FROM centos
-COPY --from=centos  /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
-RUN echo "Asia/Shanghai" > /etc/timezone
-
 FROM python:3.7
 # 使用官方提供的 Python 开发镜像作为基础镜像
-
+RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \
+    echo "Asia/Shanghai" > /etc/timezone
 
 WORKDIR /app
 ADD . /app
